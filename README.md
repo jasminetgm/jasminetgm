@@ -1,16 +1,13 @@
-## Hi there 👋
+# Introduction
 
-<!--
-**jasminetgm/jasminetgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Jasmine Teo Gie Ming, a student in the Software Maintenance
+and Evolution course.
 
-Here are some ideas to get you started:
+I expect to learn more about software maintenance,
+GitHub, and how software can be improved over time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Fun fact**: I enjoy watching movies and listening to music.
+- **Course expectations**: To gain hands-on experience in
+maintaining and evolving software.
+
+![My Image](profileImage.jpg)
